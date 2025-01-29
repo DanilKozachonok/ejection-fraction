@@ -1,0 +1,18 @@
+{
+    "dev_mode": true,
+    "n_term_start": 3,
+    "filt": true,
+    "f_sreza": 0.7,
+    "f_sampling": 2000,
+    "plot_3D": true,
+    "plot_projections": true,
+    "QRS_loop_area": false,
+    "T_loop_area": false,
+    "count_qrst_angle": false,
+    "mean_filter": true,
+    "predict_res": true,
+    "show_ECG": true,
+    "show_xyz": false,
+    "pr_delta": 0.5,
+    "logs": false
+}
