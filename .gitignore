@@ -10,3 +10,5 @@
 /utils/analysis.ipynb
 /Data_VECG
 инструкция к докеру.txt
+**/mlflow_server
+**/mlartifacts
